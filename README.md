@@ -10,7 +10,7 @@ Analista de Datos con un enfoque híbrido: combino el rigor cuantitativo con una
     *(En este video explico el valor de negocio y los insights del proyecto)*
 
 ### 🛠️ Mi Stack & Enfoque:
-**Herramientas:** ![Python](img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://shields.io) ![Power BI](https://shields.io) ![Excel](https://shields.io) ![Scrum](https://shields.io)
+**Herramientas:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆
 > **Más allá de los datos:** Me apasiona el **Storytelling** y la **Historia que cuentan los datos**. Mi valor diferencial es unir la evidencia técnica con el contexto humano.
 ---
 📫 **Hablemos de datos y estrategia:** [LinkedIn](linkedin.com/in/maxizanardi) | maxiizanardi@gmail.com
