@@ -1,16 +1,19 @@
-# ¡Hola! Soy Maxi Zanardi 👋
+# Hi! I'm Maxi Zanardi 👋
 
-Analista de Datos con un enfoque híbrido: combino el rigor cuantitativo con una mirada cualitativa para entender el "porqué" detrás de los números. Mi objetivo es contar historias que faciliten la toma de decisiones.
+Data and reporting professional with a hybrid approach: combining quantitative analysis with a business perspective to understand the "why" behind the numbers. My goal is to turn data into clear insights that support decision-making.
 
-### 🚀 Proyecto Destacado:
-*   **[Análisis Chocolate Dubái 🍫](https://github.com/maxizanardi/analisis-chocolate-dubai)**  
-    Un estudio de 360° sobre tendencias virales y rentabilidad en España.
-    
-    > **📺 [Ver Video de Presentación](https://youtube.com/shorts/vGojHpB6ORU?feature=share)**  
-    *(En este video explico el valor de negocio y los insights del proyecto)*
+### 🚀 Featured Project:
+* **[Dubai Chocolate Analysis 🍫](https://github.com/maxizanardi/analisis-chocolate-dubai)**
+  A 360° analysis of viral trends, market behaviour and business potential in Spain.
 
-### 🛠️ Mi Stack & Enfoque:
-**Herramientas:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆
-> **Más allá de los datos:** Me apasiona el **Storytelling** y la **Historia que cuentan los datos**. Mi valor diferencial es unir la evidencia técnica con el contexto humano.
+  > **📺 [Watch Project Presentation](https://youtube.com/shorts/vGojHpB6ORU?feature=share)**
+  *(A short presentation explaining the business value and key insights of the project.)*
+
+### 🛠️ Tech Stack & Approach:
+**Tools:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆
+
+> **Beyond the data:** I am passionate about storytelling and the stories behind the numbers. My approach combines technical evidence with business context.
+
 ---
-📫 **Hablemos de datos y estrategia:** [LinkedIn](linkedin.com/in/maxizanardi) | maxiizanardi@gmail.com
+
+📬 **Let's talk data and business:** [LinkedIn](linkedin.com/in/maxizanardi) | maxizanardi@gmail.com
