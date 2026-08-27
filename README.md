@@ -10,7 +10,7 @@ Data and reporting professional with a hybrid approach: combining quantitative a
   *(A short presentation explaining the business value and key insights of the project.)*
 
 ### 🛠️ Tech Stack & Approach:
-**Tools:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆
+**Tools:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆 | Microsoft Certified: Power BI Data Analyst (PL-300) 🏆
 
 > **Beyond the data:** I am passionate about storytelling and the stories behind the numbers. My approach combines technical evidence with business context.
 
