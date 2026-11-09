@@ -11,6 +11,7 @@ Negocios digitales · Power BI (Microsoft Certified PL-300) · Scrum Master (PSM
 
 | Proyecto | Qué resuelve | Herramientas |
 |---|---|---|
+| **[Caso real: negocio automatizado con IA](https://github.com/maxizanardi/caso-automatizacion-ia)** | Un negocio de productos digitales llevado de la idea a la venta con IA: producto, controles de calidad, tienda, anuncios y reportes. 5 ventas el 2.º día de campaña. | Claude Code · Python · Node.js · APIs |
 | **[Tablero de ventas para una pyme](https://github.com/maxizanardi/tablero-ventas-pyme)** | Qué productos sostienen el negocio, qué clientes se van y cuándo comprar stock. 540k ventas reales. | Excel · Power Query · Python |
 | **[Análisis Chocolate Dubái](https://github.com/maxizanardi/analisis-chocolate-dubai)** | ¿Tendencia viral o negocio real? Mercado del chocolate "estilo Dubái" en España. [Video](https://youtube.com/shorts/vGojHpB6ORU?feature=share) | Power BI · DAX · Power Query · Python |
 | **[Cyclistic](https://github.com/maxizanardi/cyclistic-report)** | Cómo convertir usuarios casuales en socios anuales (Google Data Analytics). | R · tidyverse |
