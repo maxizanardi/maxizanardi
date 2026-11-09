@@ -1,9 +1,9 @@
-# Maxi Zanardi · Analista de Datos / Data Analyst
+# Maxi Zanardi · Emprendedor digital · Datos · Scrum · IA
 
-**Convierto planillas desordenadas en tableros claros para pymes.**
-I turn messy spreadsheets into clear dashboards for small businesses.
+**Ordeno números, procesos y equipos para que un negocio avance.**
+I bring order to numbers, processes and teams so businesses move forward.
 
-Power BI (Microsoft Certified PL-300) · Excel · Power Query · DAX · SQL · Python · R · IA (Claude)
+Negocios digitales · Power BI (Microsoft Certified PL-300) · Scrum Master (PSM I) · Excel · Power Query · SQL · Python · IA (Claude)
 
 ---
 
