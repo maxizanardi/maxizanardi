@@ -1,19 +1,28 @@
-# Hi! I'm Maxi Zanardi 👋
+# Maxi Zanardi · Analista de Datos / Data Analyst
 
-Data and reporting professional with a hybrid approach: combining quantitative analysis with a business perspective to understand the "why" behind the numbers. My goal is to turn data into clear insights that support decision-making.
+**Convierto planillas desordenadas en tableros claros para pymes.**
+I turn messy spreadsheets into clear dashboards for small businesses.
 
-### 🚀 Featured Project:
-* **[Dubai Chocolate Analysis 🍫](https://github.com/maxizanardi/analisis-chocolate-dubai)**
-  A 360° analysis of viral trends, market behaviour and business potential in Spain.
-
-  > **📺 [Watch Project Presentation](https://youtube.com/shorts/vGojHpB6ORU?feature=share)**
-  *(A short presentation explaining the business value and key insights of the project.)*
-
-### 🛠️ Tech Stack & Approach:
-**Tools:** Python 🐍 | SQL 🗄️ | Power BI 📊 | Excel 🟢 | Scrum Master PSM I 🏆 | Microsoft Certified: Power BI Data Analyst (PL-300) 🏆
-
-> **Beyond the data:** I am passionate about storytelling and the stories behind the numbers. My approach combines technical evidence with business context.
+Power BI (Microsoft Certified PL-300) · Excel · Power Query · DAX · SQL · Python · R · IA (Claude)
 
 ---
 
-📬 **Let's talk data and business:** [LinkedIn](linkedin.com/in/maxizanardi) | maxizanardi@gmail.com
+### Proyectos · Projects
+
+| Proyecto | Qué resuelve | Herramientas |
+|---|---|---|
+| **[Tablero de ventas para una pyme](https://github.com/maxizanardi/tablero-ventas-pyme)** | Qué productos sostienen el negocio, qué clientes se van y cuándo comprar stock. 540k ventas reales. | Excel · Power Query · Python |
+| **[Análisis Chocolate Dubái](https://github.com/maxizanardi/analisis-chocolate-dubai)** | ¿Tendencia viral o negocio real? Mercado del chocolate "estilo Dubái" en España. [Video](https://youtube.com/shorts/vGojHpB6ORU?feature=share) | Power BI · DAX · Power Query · Python |
+| **[Cyclistic](https://github.com/maxizanardi/cyclistic-report)** | Cómo convertir usuarios casuales en socios anuales (Google Data Analytics). | R · tidyverse |
+
+### Cómo trabajo · How I work
+- Empiezo por la pregunta del negocio, no por el gráfico.
+- Dejo registrada cada limpieza de datos para que se pueda revisar.
+- Uso IA (Claude) para avanzar más rápido; el criterio y la revisión son míos.
+
+### Certificaciones · Certifications
+Microsoft Certified: Power BI Data Analyst Associate (PL-300) · Google Data Analytics · Professional Scrum Master I (PSM I)
+
+---
+
+📬 [LinkedIn](https://www.linkedin.com/in/maxizanardi) · Disponible para proyectos freelance y remotos · Open to freelance and remote work
